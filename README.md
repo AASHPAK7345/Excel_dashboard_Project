@@ -1,1 +1,3 @@
 # Excel_dashboard_Project
+I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data.
+This process involved several stages, including processing, data cleaning,and data visualization.
