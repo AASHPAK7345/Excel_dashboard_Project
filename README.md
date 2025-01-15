@@ -1,8 +1,9 @@
 Rajesh-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
-Project Objective
+
+*Project Objective:
 The Rajesh Store wants to create an annual sales report for 2022. So that, the owner of the Rajesh store can understand their customers and grow more sales in 2023 & 2024
 
-Questions (KPIs)
+*Questions (KPIs)
 
 Compare the sales and orders using single chart.
 
@@ -24,7 +25,7 @@ Percentage of Total Orders delivered
 
 Dashboard Interaction View Dashboard
 
-Process: 
+*Process: 
 
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -33,7 +34,7 @@ Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 Dashboard
 Screenshot 
 
-Project Insight: 
+*Project Insight: 
 
 Women customers are more likely to buy products compared to men (~65%).
 The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
